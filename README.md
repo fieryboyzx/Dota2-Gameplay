@@ -10,8 +10,7 @@ Thank you!
   
 # Bug Tracker Update
 
-- Coincident with the release of the 7.39 update today, it has been nearly three years that we've been running this bug tracker. It's been an incredible resource for folks doing gameplay work to reference. It's so much faster to track down bugs when we can start with MatchIDs and a description of the problem, often with video. Thank you so much to everyone who's taken the time to submit a bug report or upvote an existing bug report.
-
+LOL
 - With 19,221 open issues, many of which are from years ago, we're going to turn on the "stale" issues feature of GitHub. Any issue that's had no activity in over a year will be marked stale. 90 days after being marked stale, if there's no further activity, the issues will be closed. The intent here is to close out old issues that are less relevant to the current state of the game, so it's easier to find relevant issues. If a ticket is still relevant but was marked stale, anyone commenting on the ticket to "bump" it, the stale tag will be removed.
 
 ## **Links**
